@@ -1,0 +1,10 @@
+Server > static > AlbumName > songs
+
+example:
+
+ACDC - T.N.T (folder)
+    01 It's a Long Way to the Top   (mp3)
+    02 Rock 'N' Roll Singer         (mp3)
+    03 The Jack                     (mp3)
+    ...
+    cover                           (jpg) (should be square)
